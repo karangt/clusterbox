@@ -1,5 +1,5 @@
-**Note**: The code in this directory is connected to the following Google Sheet:
-https://docs.google.com/spreadsheets/d/15i7ybkCu-AXwMjZbrxxRTp_AVq2Bar-nNflHTJjV71c
+**Note**: The code in this directory is connected to [this Google Sheet](http://bit.ly/clusterbox):
+
 
 The script ID, that connects this code to the above document is present in the following file:
 ```
